@@ -65,7 +65,7 @@
 <meta property="og:image" content="https://i.postimg.cc/bNM2MPP9/1212hujantoto.jpg" />
 <meta property="og:title" content=" HUJANTOTO ⚡️ Masuk Agen Slot Online Gacor Hari Ini & Situs Judi Toto Togel Depo 5K Tergacor Pasti Menang" />
 <meta property="og:description" content=" HUJANTOTO ⚡️ adalah Situs Toto Slot Gacor Hari Ini dengan depo hanya 5K. Link agen judi togel online 4D resmi, slot gacor maxwin, togel 4D, dan game online pasti menang.">
-<meta property="og:url" content="http://saktigembira.bombanakab.go.id/sakti/" />
+<meta property="og:url" content="http://saktigembira.bombanakab.go.id/" />
 <meta property="og:site_name" content="KOMPAS.com" />
 <meta property="fb:app_id" content="324557847592228" />
 <!-- e:fb meta -->
@@ -108,7 +108,7 @@
 
 
 
-<link rel="canonical" href="http://saktigembira.bombanakab.go.id/sakti/" />
+<link rel="canonical" href="http://saktigembira.bombanakab.go.id/" />
 <link rel="dns-prefetch" href="twitter.com">
 <link rel="shortcut icon" href="https://i.postimg.cc/8cGB3SV5/bomba.jpg">
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/08/13/kompascom/desktop/css/kcm2017-article.min.css" type="text/css"> 
@@ -117,11 +117,11 @@
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/08/21/0958/kgm-verify.min.css" type="text/css">
 
 <link rel="alternate" hreflang="id-id" href="https://hujantotogoo.pages.dev/serang/"/>
-<link rel="alternate" href="http://saktigembira.bombanakab.go.id/sakti/"/>
+<link rel="alternate" href="http://saktigembira.bombanakab.go.id/"/>
 <link rel="alternate" hreflang="id" href="https://hujantotogoo.pages.dev/serang/"/>
-<link rel="alternate" hreflang="en" href="http://saktigembira.bombanakab.go.id/sakti/"/>
-<link rel="alternate" hreflang="x-default" href="http://saktigembira.bombanakab.go.id/sakti/"/>
-<link rel="alternate" href="http://saktigembira.bombanakab.go.id/sakti/" media="only screen and (max-width: 640px)" /> 
+<link rel="alternate" hreflang="en" href="http://saktigembira.bombanakab.go.id/"/>
+<link rel="alternate" hreflang="x-default" href="http://saktigembira.bombanakab.go.id/"/>
+<link rel="alternate" href="http://saktigembira.bombanakab.go.id/" media="only screen and (max-width: 640px)" /> 
 <link rel="preload" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:200,300,700|Roboto:300,300i,400,400i,500,700,700i" as="style">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:200,300,700|Roboto:300,300i,400,400i,500,700,700i">
 <link rel="preconnect" href="https://scripts.jixie.media"/>
@@ -309,7 +309,7 @@ var rl_adx_val = '';
 {
   "@context": "http://schema.org",
   "@type": "WebSite",
-  "url": "http://saktigembira.bombanakab.go.id/sakti/",
+  "url": "http://saktigembira.bombanakab.go.id/",
   "potentialAction": {
     "@type": "SearchAction",
     "target": "https://search.kompas.com/search?q={search_term_string}",
@@ -330,7 +330,7 @@ var rl_adx_val = '';
 {
   "@context" : "http://schema.org",
   "@type" : "Organization",
-  "url": "http://saktigembira.bombanakab.go.id/sakti/",
+  "url": "http://saktigembira.bombanakab.go.id/",
   "logo": "https://i.postimg.cc/YSCzN8Jw/sg-tg.gif",
   "sameAs" : [
     "https://www.facebook.com/kompascom",
@@ -21446,7 +21446,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
             <div class="row col-offset-fluid clearfix">
                 <div class="col-bs10-5 clearfix">
                     <div class="logo">
-                        <a href="http://saktigembira.bombanakab.go.id/sakti/" data-google-interstitial="false">
+                        <a href="http://saktigembira.bombanakab.go.id/" data-google-interstitial="false">
                                                             <style>.logo img {width:auto;}.logo {width:auto;}</style>
 
                                                                                                             <img src="https://i.postimg.cc/YSCzN8Jw/sg-tg.gif" alt=" HUJANTOTO ⚡️ Masuk Agen Slot Online Gacor Hari Ini & Situs Judi Toto Togel Depo 5K Tergacor Pasti Menang">
@@ -21578,7 +21578,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         <!-- (ads.skin.full) -->
         <div class="container clearfix nav__wrap">
             <div class="logo logo--sticky">
-                                    <a href="http://saktigembira.bombanakab.go.id/sakti/"><img class="lozad" data-src="https://i.postimg.cc/YSCzN8Jw/sg-tg.gif" alt=" HUJANTOTO ⚡️ Masuk Agen Slot Online Gacor Hari Ini & Situs Judi Toto Togel Depo 5K Tergacor Pasti Menang" /></a>
+                                    <a href="http://saktigembira.bombanakab.go.id/"><img class="lozad" data-src="https://i.postimg.cc/YSCzN8Jw/sg-tg.gif" alt=" HUJANTOTO ⚡️ Masuk Agen Slot Online Gacor Hari Ini & Situs Judi Toto Togel Depo 5K Tergacor Pasti Menang" /></a>
                             </div>
 
               
@@ -22570,7 +22570,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         <!-- read header-->
         <div class="read__header col-offset-fluid clearfix">
             <div class="col-bs10-10">
-                <div class="read__time"><a href="http://saktigembira.bombanakab.go.id/sakti/"> HUJANTOTO</a></div>
+                <div class="read__time"><a href="http://saktigembira.bombanakab.go.id/"> HUJANTOTO</a></div>
             </div>
             
             <div class="col-bs10-10">            </div>
@@ -22674,7 +22674,7 @@ padding-left:10px;
                 <div class="read__content" >
                                         <div class="clearfix">
 <p>
-<a href="http://saktigembira.bombanakab.go.id/sakti/"><strong> HUJANTOTO</strong></a> Gacor hadir sebagai solusi permainan slot online dengan sistem deposit DANA yang cepat dan tanpa potongan. Proses transaksi dilakukan secara otomatis sehingga pemain dapat langsung menikmati berbagai pilihan permainan tanpa harus menunggu lama.
+<a href="http://saktigembira.bombanakab.go.id/"><strong> HUJANTOTO</strong></a> Gacor hadir sebagai solusi permainan slot online dengan sistem deposit DANA yang cepat dan tanpa potongan. Proses transaksi dilakukan secara otomatis sehingga pemain dapat langsung menikmati berbagai pilihan permainan tanpa harus menunggu lama.
 </p>
 
 <p>
@@ -22791,7 +22791,7 @@ Kombinasi antara sistem deposit DANA cepat, server stabil, dan akses ringan menj
             <div class="footerCol-column">
 
                 <div class="footerLogo">
-                    <a href="http://saktigembira.bombanakab.go.id/sakti/" data-google-interstitial="false">
+                    <a href="http://saktigembira.bombanakab.go.id/" data-google-interstitial="false">
                         <img class="lozad fade" data-src="https://i.postimg.cc/YSCzN8Jw/sg-tg.gif" alt=" HUJANTOTO ⚡️ Masuk Agen Slot Online Gacor Hari Ini & Situs Judi Toto Togel Depo 5K Tergacor Pasti Menang" width="207" height="26" src="https://i.postimg.cc/YSCzN8Jw/sg-tg.gif" data-loaded="true" />
                     </a>
                 </div>
@@ -23588,7 +23588,7 @@ if (onSubmitNps !== null) {
 
 <script src="https://accounts.google.com/gsi/client" async defer></script>
 <script>
-    var url_continue = "http://saktigembira.bombanakab.go.id/sakti/";
+    var url_continue = "http://saktigembira.bombanakab.go.id/";
     
     function oneTapShow(tipe='') {
         let otd = document.getElementById('kgmModal-onetap')
@@ -23840,7 +23840,7 @@ if (onSubmitNps !== null) {
             }
         };
         var data = JSON.stringify({
-            "pageurl" : "http://saktigembira.bombanakab.go.id/sakti/",
+            "pageurl" : "http://saktigembira.bombanakab.go.id/",
             "pagetype" : "baca-juga"
         });
         xhr_auto_baca_juga.send(data);
