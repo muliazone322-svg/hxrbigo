@@ -62,7 +62,7 @@
 
 <!-- S:fb meta -->
 <meta property="og:type" content="article" />
-<meta property="og:image" content="https://i.postimg.cc/bNM2MPP9/1212hujantoto.jpg" />
+<meta property="og:image" content="https://i.postimg.cc/bNM2MPP9/1212hujantoto.jpg"/>
 <meta property="og:title" content=" HUJANTOTO ⚡️ Masuk Agen Slot Online Gacor Hari Ini & Situs Judi Toto Togel Depo 5K Tergacor Pasti Menang" />
 <meta property="og:description" content=" HUJANTOTO ⚡️ adalah Situs Toto Slot Gacor Hari Ini dengan depo hanya 5K. Link agen judi togel online 4D resmi, slot gacor maxwin, togel 4D, dan game online pasti menang.">
 <meta property="og:url" content="http://saktigembira.bombanakab.go.id/" />
